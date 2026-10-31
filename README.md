@@ -79,16 +79,16 @@ Open the local URL displayed in the terminal to access the application.
 
 ## Available Commands for reference
 
-| Purpose | Command |
-|---|---|
-| Build frontend | `yarn webpack` |
-| Start development server | `yarn start:dev` |
-| Run all CI checks | `yarn cichecks` |
-| Run linting and formatting | `yarn lint` |
-| Run unit tests | `yarn test:unit` |
-| Run route tests | `yarn test:routes` |
-| Run functional tests | `yarn test:functional` |
-| Generate test coverage | `yarn test:coverage` |
+| Purpose                    | Command                |
+| -------------------------- | ---------------------- |
+| Build frontend             | `yarn webpack`         |
+| Start development server   | `yarn start:dev`       |
+| Run all CI checks          | `yarn cichecks`        |
+| Run linting and formatting | `yarn lint`            |
+| Run unit tests             | `yarn test:unit`       |
+| Run route tests            | `yarn test:routes`     |
+| Run functional tests       | `yarn test:functional` |
+| Generate test coverage     | `yarn test:coverage`   |
 
 ## Backend Integration
 
